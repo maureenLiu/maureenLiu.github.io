@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>TestTag</title>
-    <url>/p/8c650996.html</url>
-    <content><![CDATA[<span id="more"></span>
-<h1 id="head1"><a class="markdownIt-Anchor" href="#head1"></a> Head1</h1>
-<h2 id="head11"><a class="markdownIt-Anchor" href="#head11"></a> Head1.1</h2>
-<h2 id="head12"><a class="markdownIt-Anchor" href="#head12"></a> Head1.2</h2>
-<h1 id="head2"><a class="markdownIt-Anchor" href="#head2"></a> Head2</h1>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>Test</tag>
-      </tags>
+    <title>我的第一篇博客</title>
+    <url>/p/63785.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -38,10 +27,5 @@
       <categories>
         <category>教程</category>
       </categories>
-  </entry>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/p/63785.html</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
